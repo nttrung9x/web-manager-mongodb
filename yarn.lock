@@ -4687,9 +4687,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"concurrently@npm:^8.2.1":
-  version: 8.2.1
-  resolution: "concurrently@npm:8.2.1"
+"concurrently@npm:^8.2.2":
+  version: 8.2.2
+  resolution: "concurrently@npm:8.2.2"
   dependencies:
     chalk: "npm:^4.1.2"
     date-fns: "npm:^2.30.0"
@@ -4703,7 +4703,7 @@ __metadata:
   bin:
     conc: dist/bin/concurrently.js
     concurrently: dist/bin/concurrently.js
-  checksum: b88b999dd0141ac88b05c43e29473299ae47d222bcdb6f295b9be73b5a3c5c8fb6612c3522c0ec8efca367cc4345a51ca457a3a2b786ece9cb5fd83a8c56fbcf
+  checksum: a5f46c85f2bfd617948b31c94823b8189d4fd8ce652d50f6558ef61f08380cf2d25fdbb88d2be9db2d52303d4d0e2afbfc160ac9e33b357516dfb4b4606053d3
   languageName: node
   linkType: hard
 
@@ -8373,7 +8373,7 @@ __metadata:
     cli-color: "npm:^2.0.3"
     codemirror: "npm:^5.58.2"
     commander: "npm:^11.1.0"
-    concurrently: "npm:^8.2.1"
+    concurrently: "npm:^8.2.2"
     cookie-parser: "npm:1.4.6"
     copy-webpack-plugin: "npm:^11.0.0"
     csurf: "npm:1.11.0"
